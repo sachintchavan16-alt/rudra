@@ -1,0 +1,10 @@
+{
+  "valid": {
+    "username": "sachin",
+    "password": "sachin"
+  },
+  "invalid": {
+    "username": "invalid_user",
+    "password": "wrong_password"
+  }
+}
